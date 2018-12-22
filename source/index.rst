@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Workshop on Scalable Data Analytics Methods in Scientific Computing (SDASC)
-===========================================================================
+Workshop on Scalable Data Analytics in Scientific Computing (SDASC)
+===================================================================
 
 .. toctree::
    :maxdepth: 1
@@ -17,7 +17,7 @@ Workshop on Scalable Data Analytics Methods in Scientific Computing (SDASC)
 
 With increasing importance of statistical inference methods and their use at
 large cloud and warehouse-scale computing industry, we propose a workshop called
-Scalable Data Analytics Methods in Scientific Computing (SDASC). It will
+Scalable Data Analytics in Scientific Computing (SDASC). It will
 feature automated data analysis efforts on the convergence of computational
 science, HPC, and large scale data analytics and inference.  The workshop will
 focus on integration of the HPC techniques and statistical learning and
