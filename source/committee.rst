@@ -14,10 +14,11 @@ Program Committee Members
 -------------------------
 
 * Gabriele Cavallaro (Juelich Supercomputing Centre, Germany)
-* Martin Siggel (German Aerospace Center /DLR/ Cologne, Germany)
+* Marat Dukhan (Facebook Inc., USA)
 * Eileen Kūhn (Karlsruhe Institute of Technology, Germany)
 * Xipeng Shen (North Carolina State University, USA)
-* Marat Dukhan (Facebook Inc., USA)
+* Martin Siggel (German Aerospace Center /DLR/ Cologne, Germany)
+* Miroslav Stoyanov (Oak Ridge National Laboratory, USA)
 
 --------------------------
 Local Committee Organizers
