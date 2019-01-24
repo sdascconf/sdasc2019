@@ -18,6 +18,7 @@ Program Committee Members
 * Eileen Kūhn (Karlsruhe Institute of Technology, Germany)
 * Xipeng Shen (North Carolina State University, USA)
 * Martin Siggel (German Aerospace Center /DLR/ Cologne, Germany)
+* Misha Smelyanskiy (Facebook Inc., USA)
 * Miroslav Stoyanov (Oak Ridge National Laboratory, USA)
 
 --------------------------
