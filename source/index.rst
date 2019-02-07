@@ -12,6 +12,7 @@ Workshop on Scalable Data Analytics in Scientific Computing (SDASC)
 
    scope
    topics
+   contributing
    committee
    program
 
