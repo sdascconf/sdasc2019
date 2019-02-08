@@ -3,7 +3,10 @@
 Contributing
 ============
 
-We are encouraging contributions that present original unpublished research. Submissions (up to 12 pages) should adhere to the single-column LNCS style (SpringerÕs website). Topics of interest include but are not limited to the following topic areas: 
+We are encouraging contributions that present original unpublished research.
+Submissions (up to 12 pages) should adhere to the single-column LNCS style
+(Springer's website). Topics of interest include but are not limited to the
+following topic areas:
 
 * Incorporating realtime and ad-hoc data analytics into applications and deployment on supercomputing and cluster platforms
 * Scientific data set creation, ingest, curation, and analysis with stochastic approaches
@@ -16,4 +19,11 @@ We are encouraging contributions that present original unpublished research. Sub
 * Model derivation and training for scalable simulations and data sets
 * Deployment of statistical models and their implementations such as TensorFlow, (Py)Torch, Caffe 1/2, Keras, combined with their integration with large scale simulations through containers (Kubernetes, Docker, Singularity, OpenShift), virtualizaiton, colocation, etc.
 
-The authors of accepted contributions will get a 15 minute time slot at the workshop to present their work. The revised versions of accepted papers will be published as post-conference proceedings. This year, the ISC workshop chairs organize a joint Workshop Proceedings that will be published with Springer similar to the ISC 2019 research papers proceedings. The workshop proceedings will be published after the conference but we will collect preliminary versions of the papers and make them available during the workshop to your workshop attendees.
+The authors of accepted contributions will get a 15 minute time slot at the
+workshop to present their work. The revised versions of accepted papers will be
+published as post-conference proceedings. This year, the ISC workshop chairs
+organize a joint Workshop Proceedings that will be published with Springer
+similar to the ISC 2019 research papers proceedings. The workshop proceedings
+will be published after the conference but we will collect preliminary versions
+of the papers and make them available during the workshop to your workshop
+attendees.
