@@ -14,7 +14,7 @@ Program Committee Members
 -------------------------
 
 * Gabriele Cavallaro (Juelich Supercomputing Centre, Germany)
-* Marat Dukhan (Facebook Inc., USA)
+* Marat Dukhan (Google Inc., USA)
 * Eileen Kūhn (Karlsruhe Institute of Technology, Germany)
 * Daniel Jacobson (Oak Ridge National Laboratory, USA)
 * Xipeng Shen (North Carolina State University, USA)
