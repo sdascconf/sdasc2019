@@ -32,9 +32,11 @@ workshop outlined below.
 This workshop could also be considered as a complementary event to the Machine
 Learning Learning Day slated to take place at ISC 2019.
 
-The workshop aims to establish a forum of discourse and exchange ideas of
-current practices of for HPC and data analytics integration. The outcomes will
-include contemporary
+The workshop aims to establish a forum of discourse and exchange of ideas about
+current practices for HPC and data analytics integration. The outcomes will
+include discussion about contemporary methods and implementation techniques
+that unify modern statistical inference, latest software stacks for Machine
+Learning deployed on supercomputing machines with hardware accelerators.
 
 .. * :ref:`genindex`
 .. * :ref:`modindex`
