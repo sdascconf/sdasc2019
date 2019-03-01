@@ -10,6 +10,7 @@ Workshop on Scalable Data Analytics in Scientific Computing (SDASC)
    :maxdepth: 1
    :caption: Contents:
 
+   cfp
    scope
    topics
    contributing
