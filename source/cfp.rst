@@ -104,11 +104,9 @@ https://easychair.org/my/conference.cgi?conf=sdasc2019
 Important dates
 ===============
 
-- Abstract submission: April 1, 2019 (AoE)
+- Paper submission (new): April 10, 2019 (AoE)
 
-- Full paper submission: April 8, 2019 (AoE)
-
-- Paper acceptance: May 6, 2019
+- Paper acceptance: April 28, 2019
 
 - Conference-ready deadline: June 6, 2019
 
