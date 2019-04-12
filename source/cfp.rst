@@ -104,7 +104,7 @@ https://easychair.org/my/conference.cgi?conf=sdasc2019
 Important dates
 ===============
 
-- Paper submission (new): April 10, 2019 (AoE)
+- Paper submission (new): April 14, 2019 (AoE)
 
 - Paper acceptance: April 28, 2019
 
