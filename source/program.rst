@@ -5,17 +5,20 @@ Program
 
 June 20, 2019, Thursday
 
-* 14:00 -- 14:10 Introduction (Anzt, Luszczek)
-* 14:10 -- 14:50 Keynote (TBD)
-* 14:50 -- 15:00 Question session
-* 15:00 -- 15:20 Talk 1
-* 15:20 -- 15:40 Talk 2
-* 15:40 -- 16:00 Talk 3
-* 16:00 -- 16:30 Coffee break
-* 16:30 -- 16:50 Talk 4
-* 17:10 -- 17:30 Talk 5
-* 17:30 -- 17:50 Talk 6
-* 17:50 -- 18:00 Closing remarks (Anzt, Luszczek)
-* 18:00 --       SDASC 2019 Workshop concludes
+* 14:00 -- 14:05 Introduction (Anzt, Luszczek)
 
+* 14:05 -- 14:55 Keynote: Dhabaleswar K. (DK) Panda (Ohio State University)
 
+* 14:55 -- 15:00 *Question/Answers session*
+
+* 15:00 -- 15:30 Paper 1: Kushal Datta, **Training Multiscale-CNN for Large Microscopy Image Classification in One Hour**
+* 15:30 -- 16:00 Paper 2: Valentin Kozlov, **Benchmarking Deep Learning Infrastructures by the Means of Tensorflow and Containers**
+
+* 16:00 -- 16:30 *Coffee break*
+
+* 16:30 -- 17:00 Invited Talk: Kai Krajsek (Juelich Supercomputing Centre)
+* 17:00 -- 17:30 Paper 3: Stanimire Tomov, **MagmaDNN: Towards High-Performance Data Analytics and Machine Learning for Data-Driven Scientific Computing**
+
+* 17:30 -- 17:40 Closing remarks (Anzt, Luszczek)
+
+*SDASC 2019 Workshop concludes*
