@@ -49,7 +49,31 @@ June 20, 2019, Thursday
 
 * 16:00 -- 16:30 *Coffee break*
 
-* 16:30 -- 17:20 Invited Talk: Kai Krajsek (Juelich Supercomputing Centre)
+* 16:30 -- 17:20 Invited Talk: Kai Krajsek (Juelich Supercomputing Centre, Forschungszentrum Jülich GmbH)
+
+  **Title:** The Helmholtz Analytics Toolkit (HeAT) - A HPC Library for Scientific Big Data Analytics
+
+  **Abstract:** This talk presents the Helmholtz Analytics Toolkit (HeAT), a
+  HPC data analytics library for scientific applications. HeAT builds on top of
+  PyTorch which provides many required features such as automatic
+  differentiation, CPU and GPU support, linear algebra operations and basic MPI
+  functionalities. However, distributed computations must be designed by hand
+  for each basic communication and furthermore PyTorch implements only a subset
+  of MPI functionalities. HeAT starts at this point providing a distributed
+  tensor data object on which operations can be performed. The tensor data
+  objects reside either on the CPU or on the GPU and, if desired, are
+  distributed over various nodes. Operations on tensor objects are transparent
+  to the user, i.e.  they remain the same irrespective of whether the HeAT data
+  object resides on a single node or if it is distributed over several nodes.
+  On the basis of this core structure, HeAT implements typical data analytics
+  methods motivated from various scientific use cases.
+
+  After motivating the framework and specifying its scope, the talk describes
+  its concept and its realization in detail. The presentation demonstrates the
+  usage of HeAT by means of several typical examples from data analytics. The
+  presentation closes with a discussion on the downsides, further developments
+  and future challenges of HeAT.
+
 * 17:20 -- 17:50 Paper 3: Stanimire Tomov, **MagmaDNN: Towards High-Performance Data Analytics and Machine Learning for Data-Driven Scientific Computing**
 
 * 17:50 -- 18:00 Closing remarks (Anzt, Luszczek)
