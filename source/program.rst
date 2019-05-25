@@ -5,7 +5,7 @@ Program
 
 June 20, 2019, Thursday
 
-* 14:00 -- 14:05 Introduction (Anzt, Luszczek)
+* 14:00 -- 14:05 Introduction (Hartwig Anzt)
 
 * 14:05 -- 14:55 Keynote: Dhabaleswar K. (DK) Panda (The Ohio State University)
 
@@ -76,6 +76,6 @@ June 20, 2019, Thursday
 
 * 17:20 -- 17:50 Paper 3: Stanimire Tomov, **MagmaDNN: Towards High-Performance Data Analytics and Machine Learning for Data-Driven Scientific Computing**
 
-* 17:50 -- 18:00 Closing remarks (Anzt, Luszczek)
+* 17:50 -- 18:00 Closing remarks (Hartwig Anzt)
 
 *SDASC 2019 Workshop concludes*
