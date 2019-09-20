@@ -6,11 +6,12 @@ Program
 
 June 20, 2019, Thursday
 
-* 14:00 -- 14:05 Introduction (Hartwig Anzt)
+* 14:00 -- 14:05 Introduction (Hartwig Anzt): [ `PDF <../presentations/SDASC19.pdf>`_ ]
 
 * 14:05 -- 14:55 Keynote: Dhabaleswar K. (DK) Panda (The Ohio State University)
 
   **Title:** Scalable and Distributed DNN Training on Modern HPC Systems: Challenges and Solutions
+  [ `PDF <../presentations/sdas19_distributed_training_dk.pdf>`_ ]
 
   **Abstract:** This talk will start with an overview of challenges being faced by
   the AI community to achieve scalable and distributed DNN training on Modern
@@ -43,14 +44,14 @@ June 20, 2019, Thursday
   Fellow. More details about Prof. Panda are available at
   http://www.cse.ohio-state.edu/~panda.
 
+
 * 14:55 -- 15:00 *Question/Answers session*
 
 * 15:00 -- 15:30 Paper 1: Kushal Datta, **Training Multiscale-CNN for Large Microscopy Image Classification in One Hour**
-  PDF_
-..  _PDF: https://uoe-my.sharepoint.com/:f:/g/personal/mweiland_ed_ac_uk/EjS9gpEKYUlFtr-julPCGiMBIbnJlLgbo2VVRAqlMH2wIA?e=OhCgx3
+  [ `PDF <../presentations/SDASC2019_v1_0.pdf>`_ ]
 
 * 15:30 -- 16:00 Paper 2: Valentin Kozlov, **Benchmarking Deep Learning Infrastructures by the Means of Tensorflow and Containers**
-  PDF_
+  [ `PDF <../presentations/BenchmarkingDLinfrastructures.pdf>`_ ]
 
 * 16:00 -- 16:30 *Coffee break*
 
@@ -80,7 +81,7 @@ June 20, 2019, Thursday
   and future challenges of HeAT.
 
 * 17:20 -- 17:50 Paper 3: Stanimire Tomov, **MagmaDNN: Towards High-Performance Data Analytics and Machine Learning for Data-Driven Scientific Computing**
-  PDF_
+  [ `PDF <../presentations/ISC19-ScaleML-Tomov.pdf>`_ ]
 
 * 17:50 -- 18:00 Closing remarks (Hartwig Anzt)
 
